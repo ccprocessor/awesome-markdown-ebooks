@@ -20,3 +20,8 @@ Each directory represents a repository originally hosted on GitHub.
 
 ## Converted Repositories List
 - [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) 
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ccprocessor/awesome-markdown-ebooks&type=Date)](https://www.star-history.com/#ccprocessor/awesome-markdown-ebooks&Date)
