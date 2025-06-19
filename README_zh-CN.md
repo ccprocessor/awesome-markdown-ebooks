@@ -20,7 +20,11 @@
 其中每个目录都代表了一个github上的仓库。
 
 ## 已转换的仓库列表
-- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) 
+
+| Repo url |  Download |
+|----|----|
+| [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [opendatalab/awesome-markdown-ebooks/ChinaTextbook](https://huggingface.co/datasets/opendatalab/awesome-markdown-ebooks/ChinaTextbook) |
+
 
 
 

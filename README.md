@@ -19,8 +19,9 @@ This project collects high-quality e-book repositories from GitHub, and converts
 Each directory represents a repository originally hosted on GitHub.
 
 ## Converted Repositories List
-- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) 
-
+| Repo url |  Download |
+|----|----|
+| [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [opendatalab/awesome-markdown-ebooks/ChinaTextbook](https://huggingface.co/datasets/opendatalab/awesome-markdown-ebooks/ChinaTextbook) |
 
 ## Star History
 
