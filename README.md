@@ -14,7 +14,8 @@
 </div>
 
 ## Project Introduction
-This project collects high-quality e-book repositories from GitHub, and converts the PDF files within using [MinerU2.0](https://github.com/opendatalab/MinerU) into Markdown format.
+
+The project gathers high-quality e-book repositories from GitHub and leverages  [MinerU 2.0](https://github.com/opendatalab/MinerU) to transform the PDF content into Markdown format.
 
 Each directory represents a repository originally hosted on GitHub.
 
