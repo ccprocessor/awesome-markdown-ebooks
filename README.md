@@ -19,6 +19,10 @@ The project gathers high-quality e-book repositories from GitHub and leverages  
 
 Each directory represents a repository originally hosted on GitHub.
 
+If you possess any high-quality e-book resources that require conversion, you’re welcome to submit the links in an issue and we will assist with the PDF-to-Markdown extraction. 
+
+Our goal is to convert more high-quality knowledge data into AI-ready data.
+
 ## Converted Repositories List
 | Repo url |  Download |
 |----|----|
