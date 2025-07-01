@@ -4,7 +4,7 @@
 <div align="center" xmlns="http://www.w3.org/1999/html">
 <!-- logo -->
 <p align="center">
-  <img src="logo.png" alt="the project's logo, representing a mechanical snail " width="300px" style="vertical-align:middle;">
+  <img src="logo.png" alt="the project's logo" width="300px" style="vertical-align:middle;">
   <h4>Your GitHub PDFs, Now AI-Ready.</h4>
   
 </p>
