@@ -18,6 +18,8 @@
 ## 项目介绍
 本项目收集了github上高质量的电子书项目，并将其中的PDF文件使用[MinerU2.0](https://github.com/opendatalab/MinerU)转为Markdown文件。
 其中每个目录都代表了一个github上的仓库。
+如果你有一些需要进行转换的高质量电子书资源，欢迎在issue中提供链接，我们会帮助你进行pdf2md的提取工作。
+我们的目标是将更多高质量的知识数据转化为AI-Ready数据
 
 ## 已转换的仓库列表
 
