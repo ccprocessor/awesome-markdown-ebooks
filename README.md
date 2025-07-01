@@ -28,6 +28,29 @@ Our goal is to convert more high-quality knowledge data into AI-ready data.
 |----|----|
 | [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [opendatalab/awesome-markdown-ebooks/ChinaTextbook](https://huggingface.co/datasets/opendatalab/awesome-markdown-ebooks/ChinaTextbook) |
 
+## Output File Structure Documentation (Based on MinerU2 vlm)
+
+
+### 1. Markdown Files and Images
+- **File Type**: `.md` file + `images/` folder
+- **Description**: Final result of PDF to Markdown conversion
+- **Content**: Document text content and image references
+
+### 2. Model Output File
+- **Filename**: `model_output.txt`
+- **Description**: Intermediate inference data from VLM model
+- **Content**: Model's visual understanding results of pages
+
+### 3. Intermediate Processing File
+- **Filename**: `middle.json`
+- **Description**: Processed result from `model_output.txt`
+- **Content**: Contains position information of text, images, formulas, tables, etc. in PDF
+
+### 4. Content List File
+- **Filename**: `content_list.json`
+- **Description**: Final result converted from `middle.json`
+- **Content**: Document conversion results segmented by elements, including page information
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ccprocessor/awesome-markdown-ebooks&type=Date)](https://www.star-history.com/#ccprocessor/awesome-markdown-ebooks&Date)
