@@ -27,8 +27,27 @@
 |----|----|
 | [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [opendatalab/awesome-markdown-ebooks/ChinaTextbook](https://huggingface.co/datasets/opendatalab/awesome-markdown-ebooks/ChinaTextbook) |
 
+## 输出文件结构说明（基于MinerU2 vlm）
 
+### 1. Markdown 文件及图像
+- **文件类型**: `.md` 文件 + `images/` 文件夹
+- **描述**: PDF 转换为 Markdown 的最终结果
+- **内容**: 文档文本内容及图像引用
 
+### 2. 模型输出文件
+- **文件名**: `model_output.txt`
+- **描述**: VLM 模型输出的中间推理数据
+- **内容**: 模型对页面的视觉理解结果
+
+### 3. 中间处理文件
+- **文件名**: `middle.json`
+- **描述**: `model_output.txt` 处理后的结果
+- **内容**: 包含PDF 中文本、图像、公式、表格等内容的位置信息
+
+### 4. 内容列表文件
+- **文件名**: `content_list.json`
+- **描述**: 由 `middle.json` 转换而来的最终结果
+- **内容**: 按元素分段的文档转换结果，包含页码信息
 
 
 ## Star History
