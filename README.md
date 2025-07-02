@@ -28,7 +28,7 @@ Our goal is to convert more high-quality knowledge data into AI-ready data.
 |----|----|
 | [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [opendatalab/awesome-markdown-ebooks/ChinaTextbook](https://huggingface.co/datasets/opendatalab/awesome-markdown-ebooks/tree/main/ChinaTextbook) |
 
-## Output File Structure Documentation (Based on MinerU2 vlm)
+## Output File Structure Documentation (Based on MinerU2 vlm, [Output File Structure](https://github.com/opendatalab/MinerU/blob/master/docs/output_file_en_us.md))
 
 
 ### 1. Markdown Files and Images
