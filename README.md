@@ -26,7 +26,7 @@ Our goal is to convert more high-quality knowledge data into AI-ready data.
 ## Converted Repositories List
 | Repo url |  Download |
 |----|----|
-| [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [opendatalab/awesome-markdown-ebooks/ChinaTextbook](https://huggingface.co/datasets/opendatalab/awesome-markdown-ebooks/ChinaTextbook) |
+| [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [opendatalab/awesome-markdown-ebooks/ChinaTextbook](https://huggingface.co/datasets/opendatalab/awesome-markdown-ebooks/tree/main/ChinaTextbook) |
 
 ## Output File Structure Documentation (Based on MinerU2 vlm)
 
