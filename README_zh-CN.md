@@ -27,7 +27,7 @@
 |----|----|
 | [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [opendatalab/awesome-markdown-ebooks/ChinaTextbook](https://huggingface.co/datasets/opendatalab/awesome-markdown-ebooks/tree/main/ChinaTextbook) |
 
-## 输出文件结构说明（基于MinerU2 vlm）
+## 输出文件结构说明（基于MinerU2 vlm，[输出文件说明](https://github.com/opendatalab/MinerU/blob/master/docs/output_file_zh_cn.md)）
 
 ### 1. Markdown 文件及图像
 - **文件类型**: `.md` 文件 + `images/` 文件夹
