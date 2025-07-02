@@ -25,7 +25,7 @@
 
 | Repo url |  Download |
 |----|----|
-| [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [opendatalab/awesome-markdown-ebooks/ChinaTextbook](https://huggingface.co/datasets/opendatalab/awesome-markdown-ebooks/ChinaTextbook) |
+| [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | [opendatalab/awesome-markdown-ebooks/ChinaTextbook](https://huggingface.co/datasets/opendatalab/awesome-markdown-ebooks/tree/main/ChinaTextbook) |
 
 ## 输出文件结构说明（基于MinerU2 vlm）
 
